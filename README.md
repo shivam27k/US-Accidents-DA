@@ -14,15 +14,15 @@ The project involved a detailed analysis of a dataset from Kaggle, which contain
 
 ![pandas](https://github.com/shivam27k/US-Accidents-DA/assets/57641214/eb9d801e-2793-46bd-831a-94a5fb1aaa25)
 
-https://github.com/shivam27k/US-Accidents-DA/assets/57641214/0b9f29fe-b61c-466c-9504-27523aae8200
+![pandas2](https://github.com/shivam27k/US-Accidents-DA/assets/57641214/0b9f29fe-b61c-466c-9504-27523aae8200)
 
 - **Seaborn:** Utilized for creating visualizations to identify trends and patterns in the data.
 
-https://github.com/shivam27k/US-Accidents-DA/assets/57641214/9152fff6-822e-4a76-a36f-6a71e2709930
+![Seaborn](https://github.com/shivam27k/US-Accidents-DA/assets/57641214/9152fff6-822e-4a76-a36f-6a71e2709930)
 
 - **Folium:** Used to create interactive maps for visualizing accident hotspots and geographical analysis.
 
-https://github.com/shivam27k/US-Accidents-DA/assets/57641214/fc93ac07-21a5-430b-92bf-99afa4555ec5
+![Folium](https://github.com/shivam27k/US-Accidents-DA/assets/57641214/fc93ac07-21a5-430b-92bf-99afa4555ec5)
 
 `Open this link to get more details:`
 https://drive.google.com/file/d/1Wh1vdqheCzF0W40Iuu2xKLRz-XGF39RU/view?usp=sharing
