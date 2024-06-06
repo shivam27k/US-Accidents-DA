@@ -29,4 +29,4 @@ https://drive.google.com/file/d/1Wh1vdqheCzF0W40Iuu2xKLRz-XGF39RU/view?usp=shari
 
 ## Summary of the analysis
 
-https://github.com/shivam27k/US-Accidents-DA/assets/57641214/8040b3b3-4d29-411d-995d-20c92fec0c7a
+![Summary](https://github.com/shivam27k/US-Accidents-DA/assets/57641214/8040b3b3-4d29-411d-995d-20c92fec0c7a)
