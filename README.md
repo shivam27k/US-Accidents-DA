@@ -12,7 +12,7 @@ The project involved a detailed analysis of a dataset from Kaggle, which contain
 
 - **Pandas:** Used for data manipulation and analysis, including reading the dataset, cleaning, and transforming the data.
 
-https://github.com/shivam27k/US-Accidents-DA/assets/57641214/eb9d801e-2793-46bd-831a-94a5fb1aaa25
+![pandas](https://github.com/shivam27k/US-Accidents-DA/assets/57641214/eb9d801e-2793-46bd-831a-94a5fb1aaa25)
 
 https://github.com/shivam27k/US-Accidents-DA/assets/57641214/0b9f29fe-b61c-466c-9504-27523aae8200
 
