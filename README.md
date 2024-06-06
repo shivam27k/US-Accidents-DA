@@ -1,5 +1,8 @@
 # US-Accidents Data Analysis
 
+`Open this link to get more details:`
+https://drive.google.com/file/d/1Wh1vdqheCzF0W40Iuu2xKLRz-XGF39RU/view?usp=sharing
+
 ## Introduction
 
 Traffic accidents are a significant concern in the United States, leading to loss of lives, injuries, and economic costs. By analyzing accident data, we can identify patterns, causes, and trends that contribute to these incidents. This project utilizes a comprehensive dataset from Kaggle to delve into the details of US accidents, aiming to enhance road safety and inform policy-making.
@@ -23,9 +26,6 @@ The project involved a detailed analysis of a dataset from Kaggle, which contain
 - **Folium:** Used to create interactive maps for visualizing accident hotspots and geographical analysis.
 
 ![Folium](https://github.com/shivam27k/US-Accidents-DA/assets/57641214/fc93ac07-21a5-430b-92bf-99afa4555ec5)
-
-`Open this link to get more details:`
-https://drive.google.com/file/d/1Wh1vdqheCzF0W40Iuu2xKLRz-XGF39RU/view?usp=sharing
 
 ## Summary of the analysis
 
